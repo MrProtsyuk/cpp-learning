@@ -12,6 +12,7 @@
     Why do we need this?
     Because we need to understand how our code is executed and how memory is managed.
     Some C++ features like pointers and references are closely related to how memory is managed.
+    This is a simple program that demonstrates how code is executed and how memory is managed.
 */
 
 #include <iostream>
