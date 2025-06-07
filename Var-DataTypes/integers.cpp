@@ -43,6 +43,7 @@ signed int num7 = -5; // Signed integer, can hold negative values
 // Example of short and long integers
 short int num8 = 1000; // Short integer, typically uses 2 bytes
 long int num9 = 1000000; // Long integer, typically uses 8 bytes
+// You can also use the 'short' and 'long' keywords without 'int'
 
 
 int main() {
